@@ -1,0 +1,59 @@
+/*EdvinGjervaldsaeter*/
+body {
+    /*Sätter webbsidans bredd till 600 pixlar*/
+   width: 600px;
+    /*Vi sätter top/bottoms margin till 0 och höger och vänster till auto*/
+    margin: 0 auto;
+    /*Flyttar texten till mitten*/
+    text-align: center;
+    /*Säger hur stor texten ska vara*/
+    font-size: 25px
+}
+
+.box {
+    /*Bestämmer hur stor lådorna ska vara*/
+    width: 200px;
+    height: 200px;
+    /*Säger åt lådorna vart de ska ta vägen*/
+    float: left
+}
+/*Sätter textens plats 60 pixlar ner får toppen*/
+p{
+    padding-top: 60px;
+}
+/*Skapar klasser för backgrunds färgerna*/
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.white {
+    background-color: white;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.brown {
+    background-color: brown;
+}
